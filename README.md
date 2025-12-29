@@ -7,6 +7,11 @@ A **secure, multi-agent AI platform** for analyzing tabular data using **natural
 
 ---
 
+
+
+![DataAI](https://www.datagaps.com/wp-content/uploads/Agentic-AI-for-Data-Analytics-Validations-1024x536.jpg)
+
+
 ## ✨ Key Features
 
 ### 🧠 Multi-Agent Architecture
