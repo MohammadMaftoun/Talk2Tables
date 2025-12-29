@@ -198,7 +198,7 @@ Contributions are welcome!
 
 ## 📄 License
 
-Provided for educational and experimental use. Customize freely.
+Provided for educational and experimental use. Customize voluntarily.
 
 ---
 
