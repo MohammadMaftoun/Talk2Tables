@@ -67,7 +67,7 @@ Built with **safety-first principles** to enable trustworthy AI-driven analytics
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/agentic-analytics.git
+git clone https://github.com/MohammadMaftoun/Talk2Tables.git
 cd agentic-analytics
 
 # Create virtual environment
