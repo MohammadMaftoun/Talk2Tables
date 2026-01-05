@@ -47,7 +47,7 @@ The system is powered by **5 specialized AI agents**, each responsible for a dis
 * ✅ AST-based import verification
 * ✅ Sandboxed execution environment
 
-Built with **safety-first principles** to enable trustworthy AI-driven analytics.
+Built with **safety-first principles** to enable responsible AI-driven analytics.
 
 ---
 
