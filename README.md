@@ -39,10 +39,6 @@ The system is powered by **5 specialized AI agents**, each responsible for a dis
 
 ### 🛡️ Security by Design
 
-* ❌ No file system access
-* ❌ No OS or subprocess execution
-* ❌ No network or HTTP requests
-* ❌ No `eval()` / `exec()` injection
 * ✅ Library whitelisting
 * ✅ AST-based import verification
 * ✅ Sandboxed execution environment
