@@ -18,7 +18,7 @@ A **secure, multi-agent AI platform** for analyzing tabular data using **natural
 
 The system is powered by **5 specialized AI agents**, each responsible for a distinct role:
 
-1. 🧠 **Planner Agent** – Understands user intent and designs an analysis plan
+1. 🧠 **Planner Agent** – Understands client intent and designs an analysis plan
 2. 💻 **Code Generator Agent** – Produces safe, executable Python code
 3. 🛡️ **Verifier Agent** – Validates code using pattern checks & AST analysis
 4. ⚡ **Executor Agent** – Runs code in a sandboxed environment
