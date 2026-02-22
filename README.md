@@ -1,7 +1,7 @@
 # Talk2Tables
 # 🤖 Agentic Analytics Platform
 
-A **secure, multi-agent AI platform** for analyzing tabular data using **natural language**. Designed with modular agents, strong security guarantees, and an interactive Streamlit interface.
+A **secure, multi-agent AI platform** for analyzing tabular data utilizing **natural language**. Designed with modular agents, strong security guarantees, and an interactive Streamlit interface.
 
 > Upload your dataset, ask questions in plain English, and get **insights, code, and visualizations** — automatically.
 
