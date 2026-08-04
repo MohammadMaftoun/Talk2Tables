@@ -205,7 +205,6 @@ Provided for educational and experimental use. Customize voluntarily.
 
 ## 🌟 Roadmap
 
-* [ ] Time Series Analysis
 * [ ] Advanced ML Models (RF, XGBoost)
 * [ ] SQL & NL-to-SQL
 * [ ] PDF Report Export
