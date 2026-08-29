@@ -199,7 +199,7 @@ Contributions are welcome!
 
 ## 📄 License
 
-Provided for educational and experimental use. Customize voluntarily.
+Provided for educational and experimental usage. Customize voluntarily.
 
 ---
 
