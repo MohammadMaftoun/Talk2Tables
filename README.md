@@ -210,7 +210,3 @@ Provided for educational and experimental usage. Customize voluntarily.
 * [ ] PDF Report Export
 * [ ] Multi-file Datasets
 * [ ] Real-time Data Streams
-
----
-
-**Built with ❤️ using Python, Streamlit, and Multi-Agent AI** 🚀
