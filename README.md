@@ -8,7 +8,6 @@ A **secure, multi-agent AI platform** for analyzing tabular data utilizing **nat
 ---
 
 
-
 ![DataAI](https://www.datagaps.com/wp-content/uploads/Agentic-AI-for-Data-Analytics-Validations-1024x536.jpg)
 
 
@@ -43,8 +42,7 @@ The system is powered by **5 specialized AI agents**, each responsible for a dis
 * ✅ AST-based import verification
 * ✅ Sandboxed execution environment
 
-Built with **safety-first principles** to enable responsible AI-based analytics.
-
+Designed with safety-first principles to support responsible AI-powered analytics.
 ---
 
 ## 🖥️ Demo Workflow
