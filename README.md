@@ -20,7 +20,7 @@ The system is powered by **5 specialized AI agents**, each responsible for a dis
 1. 🧠 **Planner Agent** – Understands client intent and designs an analysis plan
 2. 💻 **Code Generator Agent** – Produces safe, executable Python code
 3. 🛡️ **Verifier Agent** – Validates code using pattern checks & AST analysis
-4. ⚡ **Executor Agent** – Runs code in a sandboxed environment
+4. ⚡ **Executor Agent** – Runs code in a sand boxed environment
 5. 📝 **Explainer Agent** – Translates results into human-friendly insights
 
 ---
